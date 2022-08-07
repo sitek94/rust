@@ -9,8 +9,7 @@ fn main() {
         .read_line(&mut input)
         .expect("Failed to read from stdin!");
 
-    let input_string = input.to_string();
-    let input_trimmed = input_string.trim();
+    let input: &str = input.trim();
 
-    println!("Hi {}, nice to meet you!", input_trimmed);
+    println!("Hi {}, nice to meet you!", input);
 }

@@ -18,6 +18,9 @@ https://play.rust-lang.org/
 
 ## Learning from
 
+- [Kurs C++ by Mirosław Zelent (🇵🇱)](https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) -
+  I really enjoy the way he explain stuff, so after watching some lesson, I
+  translate the examples from C++ to Rust
 - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
   - [x] Getting Started
     - [x] Hello, World!
